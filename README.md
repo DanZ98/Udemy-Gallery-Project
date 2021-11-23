@@ -1,4 +1,4 @@
-# Counter JavaScript Project
+# Gallery JavaScript Project
 
 A Udemy project showcasing image gallery in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
 
